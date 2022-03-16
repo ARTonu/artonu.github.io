@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sourcenext.pocketalk.android.staging",
+    "sha256_cert_fingerprints":
+    ["70:08:D5:44:E0:64:D9:D4:3E:9B:02:8B:3D:A7:03:E7:AC:84:AA:EE:26:18:A6:C8:40:41:B5:E4:8D:D6:BF:CB"]
+  }
+}]
